@@ -9,4 +9,4 @@ Files included (in order of operations)
    3a. Output from statistics (to input to machine learning nb) df1.csv </p>
 4. Capstone 1 - Machine Learning.ipynb </p>
 5. Capstone Project 1 Final Report.pdf (Report) </p>
-6. Capstone 1 - Minimizing Zestimate Error.pdf (Slide deck) </p>
+6. Minimizing Zestimate Error.pdf (Slide deck) </p>
